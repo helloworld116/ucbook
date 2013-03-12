@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>留学宝典</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>Icon.png</string>
+				<string>Icon@2x.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.jdtx.ucbook</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>UCBook</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Partner</key>
+	<string>2088901160285091</string>
+	<key>RSA private key</key>
+	<string>MIICXQIBAAKBgQC/YxzxuI7bgRjdz++EwXyoyFpSBOmSxQBNvZ88fgwMQ2Zvec6xx+IoYD3Fi3HqNoCSnBndctqYVjtKIoUywTS5Wbc9248m73fBI37qT2Vj3ynduvVD6b4oO9S0LnfLUPtzoY/NXKIwM3CeTuj5xsgzEZF+n2lqR2HFjhNiqMAU5wIDAQABAoGACkSK/PzlzSjz6JKLSxgGVBfLoLLaxSEEjycpL9mjU9UZ3ckvKaKLo5bmOX7tsZ8S7sqpKJRM3fdiXuvTMZHj/iW33EVg0SO/rhdN1mf+8VrKl9w9uKIafAhMjwF8gWg+2Se73JJo8VI0sV7g3zIF+rLfmBx4U7767JGqJPmsTkECQQD84tfNePNnON0d5dk07E0I306qgkMx5sjkDVubt3rCMOauPZzwQFDTysPbSmxYpfF5MVg5b2DUSyRrD8LjLqsJAkEAwb5pKyGq5kGrTdSlgJmcGUe+nwqs2pAng2vyfYa6zkNQLz4SQp/tH7g7dz4AQly+LxIr7V8U272K9aykceOMbwJAWk74GhyTb81SyZaHluq8J+r3QNT8AhoUq7xJdrZzVF36Q0clgHa3ZqsGfo15W78HGOySQRCRV77t5n3ebxr/YQJBAJ6tP1827Mw2noFZFs9zf5ho3SNOz/EVvXbycyEBtn92O/blRHlSmBexgOqRWg7//Dd7D4USqXerDmNVqT0pm3sCQQCQNEy6//fk5LVxreBnNEWHiyBXWPgmmNL23809T7USx09mpo1QpO56yyXlv7NDUAZCLvf85x7cg+orB3ESl6kS</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCEC2bY69ubyef5zP+6PPbK5w5vYOcbY4LfHkuuta7D6cXEZibfcKEu/wImDgx9Kce8jJJZMzfWyxb46SHdQiBGC84E25plV/JXWqiCjDSqdClQqxn2yKtHeOzk5iUNKuyNmRXzfcp1wTCw6+5iyvINKOZJ29EiVW/P5jXofnB6IQIDAQAB</string>
+	<key>Seller</key>
+	<string>szjdtx_dev@163.com</string>
+	<key>UIMainStoryboardFile</key>
+	<string>MainStoryboard</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleBlackOpaque</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

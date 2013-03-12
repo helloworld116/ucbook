@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppStoreFileSize</key>
+	<integer>6517358</integer>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/UCBook.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.jdtx.UCBook</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/UCBook.app/Icon.png</string>
+			<string>Applications/UCBook.app/Icon@2x.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Distribution: Shenzhen Jing du tian xia Tech. Co.,LTD.</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2013-02-01T05:58:38Z</date>
+	<key>Name</key>
+	<string>UCBook</string>
+	<key>SchemeName</key>
+	<string>UCBook</string>
+	<key>Status</key>
+	<string>Submitted</string>
+</dict>
+</plist>
